@@ -1,8 +1,8 @@
 # Lucas Siviglia 👋
 
-**`Junior Full Stack Web Developer`**
+<!-- **`Junior Full Stack Web Developer`** -->
 
-<br />
+I'm a junior full-stack web developer with a deep passion for learning and solving problems through code. From planning and designing to implementing solutions, I enjoy every part of the development process and am always striving to improve my skills and expand my knowledge.
 
 ### 🧰 Languages and Tools
 
@@ -19,8 +19,6 @@
 <img align="left" alt="Heroku" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />         
 <br />
-
-
 
 #
 

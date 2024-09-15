@@ -1,4 +1,4 @@
-# Lucas Siviglia 👋
+# Lucas Siviglia 🤙🏻
 
 <!-- **`Junior Full Stack Web Developer`** -->
 

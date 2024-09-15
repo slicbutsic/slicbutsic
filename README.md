@@ -5,7 +5,8 @@
 ### Languages and Tools
 
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left alt="js" widht="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+         
           
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicbutsic)](https://github.com/anuraghazra/github-readme-stats)

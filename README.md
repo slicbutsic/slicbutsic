@@ -2,8 +2,10 @@
 
 **`Full Stack Web Developer`**
 
-### Languages and Tools
+<br />
+#
 
+### Languages and Tools
 
 <img align="left" alt="js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -17,7 +19,8 @@
 <img align="left" alt="js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="js" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
           
-         
+ <br />
+#        
           
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicbutsic)](https://github.com/anuraghazra/github-readme-stats)

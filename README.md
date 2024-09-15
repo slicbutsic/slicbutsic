@@ -1,4 +1,12 @@
-## Hi there 👋
+## Lucas Siviglia 👋
+
+**`Full Stack Web Developer`**
+
+### Languages and Tools
+
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicbutsic)](https://github.com/anuraghazra/github-readme-stats)
 

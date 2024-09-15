@@ -1,8 +1,8 @@
-## Lucas Siviglia 👋
+# Lucas Siviglia 👋   💻💻
 **`Full Stack Web Developer`**
 --- 
-<br />
-#
+<-- <br /> -->
+
 
 ### Languages and Tools
 

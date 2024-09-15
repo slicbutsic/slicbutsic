@@ -1,7 +1,6 @@
 ## Lucas Siviglia 👋
-
 **`Full Stack Web Developer`**
-
+--- 
 <br />
 #
 
